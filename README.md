@@ -2,7 +2,8 @@
 ### Info
 <pre>
 → 16 years old 
-→ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png"  alt="drawing" width="20"/> Mainly using Typescript and Node JS
+
+→ <img src="https://www.workinggears.com/images/services/js-ts.jpg" alt="drawing" width="10"/> Mainly using Typescript and Node JS
 → Learning Electron
 </pre>
 
