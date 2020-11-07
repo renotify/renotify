@@ -5,7 +5,9 @@
 />
 
 ### Info
-→ 16 years old
+<pre>
+→ 16 years old 
 → Mainly using Typescript and Node JS
 → Working on a music player
 → Learning Electron
+</pre>
