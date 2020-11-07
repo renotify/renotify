@@ -1,9 +1,9 @@
-<title> lol 
+<pre> lol 
 <img
   align="center"
   src="https://github-readme-stats.vercel.app/api/?username=renotify&theme=dracula"
 />
-  </title>
+  </pre>
 
 ### Info
 <pre>
