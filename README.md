@@ -6,10 +6,4 @@
 → Learning Electron
 </pre>
 
-
-### lmfao 
-<img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api/?username=renotify&theme=dracula"
-/>
-  
+hi
